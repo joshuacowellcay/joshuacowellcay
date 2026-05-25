@@ -1,6 +1,6 @@
 # Joshua Cowell
 
-Second-year engineering student building end-to-end machine learning systems. Looking for internships and roles in software, ML, and AI engineering.
+Second-year engineering student building end-to-end machine learning systems.
 
 I like building things that run end to end, with real data behind them and an interface someone can actually use. A lot of my time goes into the less visible parts: cleaning the data, checking that the metrics mean what I think they mean, and making sure things hold together when the project gets bigger.
 
